@@ -1,0 +1,121 @@
+  /*div.
+		{
+			border-style: solid;
+			border-color: grey;
+		}
+		div .container
+		{
+			border-style: solid;
+			border-color: red;
+		
+		}
+		div .row
+		{
+			border-style: solid;
+			border-color: green;
+			border-radius: 10px;
+		}
+		div .col
+		{
+			border-style: solid;
+			border-color: black;
+			border-radius: 15px;
+		}*/
+		
+		body
+		{
+			font-size: 13px;
+			font-family: "Trebuchet MS",sans-serif;
+			line-height: 1.2;
+			color: #000000;
+
+		}
+		.dropdown-menu
+		{
+			background-color:#FFa500;
+			
+		}
+		.navbar-expand
+		{
+		background-color: #FFa500;
+		top: 4px;	
+		height: 50px;
+		
+		
+		
+		}
+		.btn-primary
+		{
+background: #FFa500;
+color: black;
+height: 35px;
+border: 1px solid #FFa500;
+font-weight: 600;
+		}
+		
+
+		.close-btn
+		{
+			position: absolute;
+			top: 4px;
+			right: 6px;
+		}
+		.header-action__link 
+		{
+			text-decoration:none;
+			height: 30px;
+			background-color:#f80000;
+			color:white;
+ 
+
+		}
+		.card-title-lm	
+		{
+		font-weight: 600;
+	
+		}
+		.header-action__link:hover
+		{
+			text-decoration:underline;
+		}
+		
+		.header
+		{
+			font-size: 10px;
+			background: white;
+
+
+		}
+		.header_form
+		{
+		 
+	      font-size: 14px;
+	      background-color: #FFa500;
+		}
+		.container
+		{
+			width: 1270px;
+            max-width: 100%;
+            padding: 10px;
+		}
+		
+
+		form
+		{
+			display: inline;
+			justify-content: inital;
+                        
+		}
+		
+		.footer
+		{
+			background: #FFa500;
+			
+		}
+		.footer-er
+		{
+			background: black;
+			
+		}
+
+		
